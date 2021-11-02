@@ -1,0 +1,14 @@
+{
+    "favorite" : [
+        {
+            "id" : 0,
+            "url": "http://expressjs.com/",
+            "description": "Express é uma estrutura de aplicativo da web Node.js mínima e flexível que fornece um conjunto robusto de recursos para aplicativos da web e móveis."
+        },
+        {
+            "id" : 2,
+            "url": "http://expressjs.com/",
+            "description": "Express é uma estrutura de aplicativo da web Node.js mínima e flexível que fornece um conjunto robusto de recursos para aplicativos da web e móveis."
+        }
+    ]
+}
