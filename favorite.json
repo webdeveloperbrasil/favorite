@@ -1,14 +1,22 @@
 {
     "favorite" : [
         {
-            "id" : 0,
-            "url": "http://expressjs.com/",
-            "description": "Express é uma estrutura de aplicativo da web Node.js mínima e flexível que fornece um conjunto robusto de recursos para aplicativos da web e móveis."
-        },
-        {
-            "id" : 2,
-            "url": "http://expressjs.com/",
-            "description": "Express é uma estrutura de aplicativo da web Node.js mínima e flexível que fornece um conjunto robusto de recursos para aplicativos da web e móveis."
+            "react" : [
+                {
+                    "id" : 0,
+                    "url": "http://expressjs.com/",
+                    "description": "Express é uma estrutura de aplicativo da web Node.js mínima e flexível que fornece um conjunto robusto de recursos para aplicativos da web e móveis.",
+                    "usedin": "https://www.youtube.com/watch?v=BN_8bCfVp88",
+                    "install": "npm install express --save"
+                },
+                {
+                    "id" : 2,
+                    "url": "https://github.com/expressjs/body-parser",
+                    "description": "Parse incoming request bodies in a middleware before your handlers, available under the req.body property.",
+                    "usedin": "https://www.youtube.com/watch?v=BN_8bCfVp88",
+                    "install": "npm install body-parser"
+                }
+            ]
         }
     ]
 }
