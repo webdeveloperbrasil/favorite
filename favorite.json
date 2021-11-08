@@ -7,49 +7,72 @@
                     "url": "http://expressjs.com/",
                     "description": "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.",
                     "usedin": "https://www.youtube.com/watch?v=BN_8bCfVp88",
-                    "install": "npm install express --save"
+                    "install": "npm install express --save",
+                    "obs":"dependência, framework para nodejs, ajuda a fazer trataiva de rotas e requests http"
                 },
                 {
                     "id" : 1,
                     "url": "https://github.com/expressjs/body-parser",
                     "description": "Parse incoming request bodies in a middleware before your handlers, available under the req.body property.",
                     "usedin": "https://www.youtube.com/watch?v=BN_8bCfVp88",
-                    "install": "npm install body-parser"
+                    "install": "npm install body-parser",
+                    "obs": "pacote para o node entender requisições, recebendo informações json e parametros da url(get)"
                 },
                 {
                     "id" : 2,
                     "url": "https://www.npmjs.com/package/axios",
                     "description": "Promise based HTTP client for the browser and node.js",
                     "usedin": "https://www.youtube.com/watch?v=ErjWNvP6mko",
-                    "install": "npm install axios"
+                    "install": "npm install axios",
+                    "obs":""
                 },
                 {
                     "id" : 3,
                     "url": "https://reactjs.org/docs/react-dom.html",
                     "description": "The react-dom package provides DOM-specific methods that can be used at the top level of your app and as an escape hatch to get outside of the React model if you need to. Most of your components should not need to use this module.",
-                    "usedin": "https://www.youtube.com/watch?v=ErjWNvP6mko",
-                    "install": ""
+                    "usedin": "https://youtu.be/ErjWNvP6mko?t=4093",
+                    "install": "npm install react-router-dom",
+                    "obs":""
                 },
                 {
                     "id" : 4,
                     "url": "https://react-icons.github.io/react-icons/",
                     "description": "Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using.",
                     "usedin": "https://www.youtube.com/watch?v=ErjWNvP6mko",
-                    "install": "npm install react-icons --save"
+                    "install": "npm install react-icons --save",
+                    "obs":""
                 },
                 {
                     "id" : 5,
                     "url": "https://reactrouter.com/web/guides/quick-start",
                     "description": "It’s a popular tool that works really well with React Router.",
                     "usedin": "https://www.youtube.com/watch?v=ErjWNvP6mko",
-                    "install": "npm install react-router-dom"
+                    "install": "npm install react-router-dom",
+                    "obs":""
                 },
                 {
                     "id" : 6,
                     "url": "https://github.com/uuidjs/uuid",
                     "description": "For the creation of RFC4122 UUIDs",
                     "usedin": "https://www.youtube.com/watch?v=ErjWNvP6mko",
-                    "install": "npm install uuid"
+                    "install": "npm install uuid",
+                    "obs":""
+                },
+                {
+                    "id" : 7,
+                    "url": "https://create-react-app.dev/docs/adding-a-sass-stylesheet/",
+                    "description": "Adding a Sass Stylesheet",
+                    "usedin": "",
+                    "install": "npm install node-sass",
+                    "obs":""
+                },
+                {
+                    "id" : 8,
+                    "url": "https://www.npmjs.com/package/react-helmet",
+                    "description": "This reusable React component will manage all of your changes to the document head.",
+                    "usedin": "",
+                    "install": "npm install --save react-helmet",
+                    "obs":"Para S.E.O., aditar title, descriptions etc"
                 }
             ]
         }
